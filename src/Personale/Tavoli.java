@@ -27,6 +27,7 @@ public class Tavoli {
     public Posti getPosti4(){
         return posto4;
     }
+    //ciao;
 
 
 }
