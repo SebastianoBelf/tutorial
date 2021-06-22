@@ -15,5 +15,6 @@ public class Biblioteca {
     public static void VisualizzaLibriInBiblioteca(){
         System.out.println("Libri in biblioteca");
         Libri.forEach(x->x.VisualizzaLibro());
+        
     }
 }
